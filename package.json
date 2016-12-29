@@ -1,0 +1,23 @@
+{
+  "name": "adblockdetect",
+  "version": "0.0.1",
+  "description": "Adblock detector",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsi88/adblockdetect.git"
+  },
+  "keywords": [
+    "adblock",
+    "detect"
+  ],
+  "author": "Sergey Novikov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nsi88/adblockdetect/issues"
+  },
+  "homepage": "https://github.com/nsi88/adblockdetect#readme"
+}
